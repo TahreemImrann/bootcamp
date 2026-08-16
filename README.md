@@ -13,9 +13,9 @@ This repository contains the tasks, assignments, notebooks, projects, and learni
 | [Day 01](./day-01/) | Spam SMS Classification | Completed |
 | [Day 02](./day-02/) | Classifier Models on Spam SMS  |  Completed |
 | [Day 03](./day-03/) | Neural Network with Activation Functions | Completed |
-| [Day 04](./day-04/) | Coming Soon | ⏳ Pending |
-| [Day 05](./day-05/) | Coming Soon | ⏳ Pending |
-| [Day 06](./day-06/) | Coming Soon | ⏳ Pending |
+| [Day 04](./day-04/) | Attention is all you need research | Completed |
+| [Day 05](./day-05/) | RNN_LSTM | Completed |
+| [Day 06](./day-06/) | BERT | Completed |
 | [Day 07](./day-07/) | Coming Soon | ⏳ Pending |
 | [Day 08](./day-08/) | Coming Soon | ⏳ Pending |
 | [Day 09](./day-09/) | Coming Soon | ⏳ Pending |
