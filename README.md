@@ -16,7 +16,7 @@ This repository contains the tasks, assignments, notebooks, projects, and learni
 | [Day 04](./day-04/) | Attention is all you need research | Completed |
 | [Day 05](./day-05/) | RNN_LSTM | Completed |
 | [Day 06](./day-06/) | BERT | Completed |
-| [Day 07](./day-07/) | Coming Soon | ⏳ Pending |
+| [Day 07](./day-07/) | fullparameter VS LORA | Completed |
 | [Day 08](./day-08/) | Coming Soon | ⏳ Pending |
 | [Day 09](./day-09/) | Coming Soon | ⏳ Pending |
 | [Day 10](./day-10/) | Coming Soon | ⏳ Pending |
