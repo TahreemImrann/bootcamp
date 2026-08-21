@@ -66,3 +66,4 @@ A Gradio interface (`gr.Interface`) wraps the model for interactive use:
 ## Tech Stack
 Python, PyTorch, Hugging Face `transformers`, `peft` (LoRA), `evaluate`,
 scikit-learn, Gradio.
+<img width="687" height="329" alt="image" src="https://github.com/user-attachments/assets/d0f856f2-d105-4ff6-a287-a76c6cb3198a" />
