@@ -18,6 +18,7 @@ a heatmap of where the model focused.
 - Split: 85% train / 15% validation (stratified), plus a separate held-out
   test set — 2040 train / 360 validation / 450 test images.
 - 71.6% / 12.6% / 15.8%
+- trained 297,219 out of 86,098,182 parameters (~0.35%)
 ## Model & Method
 - **Backbone:** `google/vit-base-patch16-224` (pretrained Vision Transformer).
 - **Fine-tuning method:** LoRA via the `peft` library — only the attention
